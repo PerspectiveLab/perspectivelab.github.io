@@ -33,13 +33,13 @@
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.5",
+      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "dotted_border",
-      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/dotted_border-2.0.0+3",
+      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/dotted_border-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -57,9 +57,9 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/flutter_lints-2.0.2",
+      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.19"
     },
     {
       "name": "flutter_svg",
@@ -81,13 +81,13 @@
     },
     {
       "name": "fluttertoast",
-      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/fluttertoast-8.2.2",
+      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/fluttertoast-8.2.4",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "get",
-      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/get-4.6.5",
+      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/get-4.6.6",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -135,9 +135,9 @@
     },
     {
       "name": "petitparser",
-      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/petitparser-5.4.0",
+      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/petitparser-6.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "pinput",
@@ -219,9 +219,9 @@
     },
     {
       "name": "xml",
-      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/xml-6.3.0",
+      "rootUri": "file:///home/dev/.pub-cache/hosted/pub.dev/xml-6.4.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "datingapp",
@@ -230,7 +230,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2023-11-24T07:25:06.999196Z",
+  "generated": "2023-11-26T21:47:19.958790Z",
   "generator": "pub",
   "generatorVersion": "3.2.0"
 }

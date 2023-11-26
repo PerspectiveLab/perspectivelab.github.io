@@ -1,3 +1,3 @@
 #!/bin/sh
 
-flutter build web --release
+flutter build web -o ./docs/ --release --base-href=/web/
