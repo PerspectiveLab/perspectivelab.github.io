@@ -1,6 +1,6 @@
-import 'package:datingapp/constants/image.dart';
-import 'package:datingapp/screens/auth/login_option_screen.dart';
-import 'package:datingapp/screens/onboadingScreen/model/onboarding_info.dart';
+import 'package:perspective/constants/image.dart';
+import 'package:perspective/screens/auth/login_option_screen.dart';
+import 'package:perspective/screens/onboadingScreen/model/onboarding_info.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

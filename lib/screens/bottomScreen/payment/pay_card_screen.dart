@@ -1,10 +1,10 @@
-import 'package:datingapp/constants/color.dart';
-import 'package:datingapp/constants/image.dart';
-import 'package:datingapp/constants/textstyle.dart';
-import 'package:datingapp/screens/bottomScreen/payment/controller/payment_controller.dart';
-import 'package:datingapp/screens/bottomScreen/payment/pay_google_screen.dart';
-import 'package:datingapp/screens/bottomScreen/payment/utils/payment_utils.dart';
-import 'package:datingapp/utils/widgets/widgets.dart';
+import 'package:perspective/constants/color.dart';
+import 'package:perspective/constants/image.dart';
+import 'package:perspective/constants/textstyle.dart';
+import 'package:perspective/screens/bottomScreen/payment/controller/payment_controller.dart';
+import 'package:perspective/screens/bottomScreen/payment/pay_google_screen.dart';
+import 'package:perspective/screens/bottomScreen/payment/utils/payment_utils.dart';
+import 'package:perspective/utils/widgets/widgets.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

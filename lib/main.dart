@@ -1,4 +1,4 @@
-import 'package:datingapp/app.dart';
+import 'package:perspective/app.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

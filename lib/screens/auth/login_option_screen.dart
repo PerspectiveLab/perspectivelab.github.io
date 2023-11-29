@@ -1,8 +1,8 @@
-import 'package:datingapp/constants/color.dart';
-import 'package:datingapp/constants/image.dart';
-import 'package:datingapp/constants/textstyle.dart';
-import 'package:datingapp/screens/auth/trouble_login/account_recovery_screen.dart';
-import 'package:datingapp/utils/widgets/widgets.dart';
+import 'package:perspective/constants/color.dart';
+import 'package:perspective/constants/image.dart';
+import 'package:perspective/constants/textstyle.dart';
+import 'package:perspective/screens/auth/trouble_login/account_recovery_screen.dart';
+import 'package:perspective/utils/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -23,7 +23,7 @@ class LogInOptionScreen extends StatelessWidget {
             height: 100,
           ),
           Text(
-            "Let,s you in",
+            "Sign up to get involved.",
             style: TextStyleClass.interBold(
               size: 28.0,
             ),

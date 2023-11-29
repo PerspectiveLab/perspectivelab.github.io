@@ -1,6 +1,6 @@
 {
-    "name": "datingapp",
-    "short_name": "datingapp",
+    "name": "perspective",
+    "short_name": "perspective",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

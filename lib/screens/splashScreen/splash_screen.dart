@@ -1,5 +1,5 @@
-import 'package:datingapp/constants/image.dart';
-import 'package:datingapp/screens/splashScreen/controller/splash_controller.dart';
+import 'package:perspective/constants/image.dart';
+import 'package:perspective/screens/splashScreen/controller/splash_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

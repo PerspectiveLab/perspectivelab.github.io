@@ -1,4 +1,4 @@
-import 'package:datingapp/constants/color.dart';
+import 'package:perspective/constants/color.dart';
 import 'package:flutter/material.dart';
 
 class TextStyleClass {

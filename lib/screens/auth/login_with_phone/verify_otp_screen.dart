@@ -1,8 +1,8 @@
-import 'package:datingapp/constants/color.dart';
-import 'package:datingapp/constants/textstyle.dart';
-import 'package:datingapp/screens/auth/login_with_phone/my_mobile_screen.dart';
-import 'package:datingapp/screens/auth/login_with_phone/whats_your_email_screen.dart';
-import 'package:datingapp/utils/widgets/widgets.dart';
+import 'package:perspective/constants/color.dart';
+import 'package:perspective/constants/textstyle.dart';
+import 'package:perspective/screens/auth/login_with_phone/my_mobile_screen.dart';
+import 'package:perspective/screens/auth/login_with_phone/whats_your_email_screen.dart';
+import 'package:perspective/utils/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:pinput/pinput.dart';

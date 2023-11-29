@@ -1,4 +1,4 @@
-import 'package:datingapp/screens/splashScreen/splash_screen.dart';
+import 'package:perspective/screens/splashScreen/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

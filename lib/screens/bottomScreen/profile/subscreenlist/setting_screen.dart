@@ -1,9 +1,9 @@
-import 'package:datingapp/constants/color.dart';
-import 'package:datingapp/constants/image.dart';
-import 'package:datingapp/constants/textstyle.dart';
-import 'package:datingapp/screens/bottomScreen/profile/subscreenlist/contaroller/setting_controller.dart';
-import 'package:datingapp/screens/bottomScreen/profile/subscreenlist/utils/setting/setting_utils.dart';
-import 'package:datingapp/utils/widgets/widgets.dart';
+import 'package:perspective/constants/color.dart';
+import 'package:perspective/constants/image.dart';
+import 'package:perspective/constants/textstyle.dart';
+import 'package:perspective/screens/bottomScreen/profile/subscreenlist/controller/setting_controller.dart';
+import 'package:perspective/screens/bottomScreen/profile/subscreenlist/utils/setting/setting_utils.dart';
+import 'package:perspective/utils/widgets/widgets.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';

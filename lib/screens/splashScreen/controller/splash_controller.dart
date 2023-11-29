@@ -1,10 +1,11 @@
 import 'dart:async';
 import 'dart:developer';
 import 'dart:io';
-import 'package:datingapp/constants/color.dart';
-import 'package:datingapp/screens/auth/login_with_phone/add_photos_screen.dart';
-import 'package:datingapp/screens/auth/login_with_phone/enable_location_screen.dart';
-import 'package:datingapp/screens/onboadingScreen/onboading_screen.dart';
+import 'package:perspective/constants/config.dart';
+import 'package:perspective/constants/color.dart';
+import 'package:perspective/screens/auth/login_with_phone/add_photos_screen.dart';
+import 'package:perspective/screens/auth/login_with_phone/enable_location_screen.dart';
+import 'package:perspective/screens/auth/login_option_screen.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
 
@@ -13,9 +14,9 @@ class SplashMainController extends GetxController {
   void onInit() {
     // checkUserConnection();
     Timer(
-      Duration(seconds: 2),
+      Duration(seconds: Config.splashScreenTime),
       () {
-        Get.off(() => OnBoardingScreen());
+        Get.off(() => LogInOptionScreen());
       },
     );
     super.onInit();

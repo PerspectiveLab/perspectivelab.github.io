@@ -1,6 +1,6 @@
-import 'package:datingapp/constants/color.dart';
-import 'package:datingapp/screens/onboadingScreen/controller/onboarding_controller.dart';
-import 'package:datingapp/screens/onboadingScreen/utils/onboarding_utils.dart';
+import 'package:perspective/constants/color.dart';
+import 'package:perspective/screens/onboadingScreen/controller/onboarding_controller.dart';
+import 'package:perspective/screens/onboadingScreen/utils/onboarding_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

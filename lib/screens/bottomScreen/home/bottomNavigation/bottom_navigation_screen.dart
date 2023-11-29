@@ -1,10 +1,10 @@
-import 'package:datingapp/constants/color.dart';
-import 'package:datingapp/constants/image.dart';
-import 'package:datingapp/screens/bottomScreen/chat/chat_screen.dart';
-import 'package:datingapp/screens/bottomScreen/home/bottomNavigation/bottom_navigation_controller.dart';
-import 'package:datingapp/screens/bottomScreen/home/home_screen.dart';
-import 'package:datingapp/screens/bottomScreen/like/like_screen.dart';
-import 'package:datingapp/screens/bottomScreen/profile/profile_screen.dart';
+import 'package:perspective/constants/color.dart';
+import 'package:perspective/constants/image.dart';
+import 'package:perspective/screens/bottomScreen/chat/chat_screen.dart';
+import 'package:perspective/screens/bottomScreen/home/bottomNavigation/bottom_navigation_controller.dart';
+import 'package:perspective/screens/bottomScreen/home/home_screen.dart';
+import 'package:perspective/screens/bottomScreen/like/like_screen.dart';
+import 'package:perspective/screens/bottomScreen/profile/profile_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';

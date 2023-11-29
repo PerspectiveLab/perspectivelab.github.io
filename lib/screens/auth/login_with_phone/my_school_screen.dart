@@ -1,7 +1,7 @@
-import 'package:datingapp/constants/color.dart';
-import 'package:datingapp/constants/textstyle.dart';
-import 'package:datingapp/screens/auth/login_with_phone/your_interests_screen.dart';
-import 'package:datingapp/utils/widgets/widgets.dart';
+import 'package:perspective/constants/color.dart';
+import 'package:perspective/constants/textstyle.dart';
+import 'package:perspective/screens/auth/login_with_phone/your_interests_screen.dart';
+import 'package:perspective/utils/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

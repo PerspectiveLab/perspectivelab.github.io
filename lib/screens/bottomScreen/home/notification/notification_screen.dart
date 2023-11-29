@@ -1,5 +1,5 @@
-import 'package:datingapp/constants/image.dart';
-import 'package:datingapp/screens/bottomScreen/home/notification/controller/notification_controller.dart';
+import 'package:perspective/constants/image.dart';
+import 'package:perspective/screens/bottomScreen/home/notification/controller/notification_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../../../../constants/color.dart';

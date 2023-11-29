@@ -1,4 +1,4 @@
-import 'package:datingapp/constants/image.dart';
+import 'package:perspective/constants/image.dart';
 import 'package:get/get.dart';
 
 class YourInterestsController extends GetxController {
