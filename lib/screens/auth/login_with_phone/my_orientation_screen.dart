@@ -2,8 +2,8 @@ import 'package:datingapp/constants/color.dart';
 import 'package:datingapp/constants/textstyle.dart';
 import 'package:datingapp/screens/auth/login_with_phone/controller/my_orientation_controller.dart';
 import 'package:datingapp/screens/auth/login_with_phone/show_me_screen.dart';
-import 'package:datingapp/screens/auth/login_with_phone/utiles/orientation_utiles.dart';
-import 'package:datingapp/utiles/widgets/widgets.dart';
+import 'package:datingapp/screens/auth/login_with_phone/utils/orientation_utils.dart';
+import 'package:datingapp/utils/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

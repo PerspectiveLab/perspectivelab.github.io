@@ -3,7 +3,7 @@ import 'package:datingapp/constants/textstyle.dart';
 import 'package:datingapp/screens/auth/login_with_phone/my_mobile_screen.dart';
 import 'package:datingapp/screens/auth/trouble_login/account_recovery_screen.dart';
 import 'package:datingapp/screens/auth/trouble_login/login_by_email_screen.dart';
-import 'package:datingapp/utiles/widgets/widgets.dart';
+import 'package:datingapp/utils/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

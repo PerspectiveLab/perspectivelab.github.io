@@ -3,7 +3,7 @@ import 'package:datingapp/constants/image.dart';
 import 'package:datingapp/constants/textstyle.dart';
 import 'package:datingapp/screens/auth/login_with_phone/controller/add_photos_controller.dart';
 import 'package:datingapp/screens/auth/login_with_phone/enable_location_screen.dart';
-import 'package:datingapp/utiles/widgets/widgets.dart';
+import 'package:datingapp/utils/widgets/widgets.dart';
 import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

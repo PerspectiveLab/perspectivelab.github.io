@@ -4,10 +4,10 @@ import 'package:datingapp/screens/auth/login_with_phone/controller/i_am_screen_c
 import 'package:datingapp/screens/auth/login_with_phone/controller/my_orientation_controller.dart';
 import 'package:datingapp/screens/auth/login_with_phone/controller/your_interests_controller.dart';
 import 'package:datingapp/screens/auth/login_with_phone/i_am_screen.dart';
-import 'package:datingapp/screens/auth/login_with_phone/utiles/orientation_utiles.dart';
-import 'package:datingapp/screens/auth/login_with_phone/utiles/your_interest_utiles.dart';
+import 'package:datingapp/screens/auth/login_with_phone/utils/orientation_utils.dart';
+import 'package:datingapp/screens/auth/login_with_phone/utils/your_interest_utils.dart';
 import 'package:datingapp/screens/bottomScreen/profile/subscreenlist/contaroller/edit_profile_controller.dart';
-import 'package:datingapp/utiles/widgets/widgets.dart';
+import 'package:datingapp/utils/widgets/widgets.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

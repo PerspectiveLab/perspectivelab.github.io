@@ -3,7 +3,7 @@ import 'package:datingapp/constants/image.dart';
 import 'package:datingapp/constants/textstyle.dart';
 import 'package:datingapp/screens/auth/login_with_phone/controller/show_me_controller.dart';
 import 'package:datingapp/screens/auth/login_with_phone/my_school_screen.dart';
-import 'package:datingapp/utiles/widgets/widgets.dart';
+import 'package:datingapp/utils/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';

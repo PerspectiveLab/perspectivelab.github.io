@@ -2,7 +2,7 @@ import 'package:datingapp/constants/color.dart';
 import 'package:datingapp/constants/textstyle.dart';
 import 'package:datingapp/screens/auth/login_option_screen.dart';
 import 'package:datingapp/screens/onboadingScreen/controller/onboarding_controller.dart';
-import 'package:datingapp/utiles/widgets/widgets.dart';
+import 'package:datingapp/utils/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

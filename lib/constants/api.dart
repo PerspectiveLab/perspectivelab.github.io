@@ -1,11 +1,15 @@
-class APINetwork {
-  static String baseUrl = "https://staging.sabbour.net/api/v1/";
+class API {
+  static String baseUrl = "https://perspective-9ef4c273c384.herokuapp.com/";
 
-  ///login
-  static String login = "login";
+  static String login = "auth/google";
+  static String login = "auth/google/callback";
 
-  ///logout
-  static String logout = "logout";
+
+  static String message = "chat/messages";
+  static String login = "chat";
+    
+  static String login = "auth/google";
+  static String login = "auth/google/callback";
 
   ///back ground
   static String backGround = "send-location";

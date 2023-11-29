@@ -13,7 +13,7 @@ class SplashMainController extends GetxController {
   void onInit() {
     // checkUserConnection();
     Timer(
-      Duration(seconds: 5),
+      Duration(seconds: 2),
       () {
         Get.off(() => OnBoardingScreen());
       },
